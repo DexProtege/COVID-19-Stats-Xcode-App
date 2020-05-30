@@ -1,5 +1,5 @@
 ## COVID-19-Stats-Xcode-App
-It's a COVID-19 Statistics displayer app that shows realtime statistics which is updated evry 15-minutes. The data is fetched from two different APIs adn displayed on the app with variety of differentiations. 
+It's a COVID-19 Statistics displayer app that shows realtime statistics which is updated every 15-minutes. The data is fetched from two different APIs adn displayed on the app with variety of differentiations. 
 
 ## Motivation
 It is a personal project developed by me in Xcode using Swift5. It is basically developed for learning new skill in Xcode by having a overview on the language and implementing the experience.
